@@ -1,0 +1,23 @@
+.btn-clr{
+    background-color: #7aaa49 !important;
+}
+.heading{
+    font-size:  70px;
+
+}
+.image_bb{
+    width: 80%;
+    border: 2px solid #7aaa49;
+    border-radius: 50%;
+}
+.osam{
+    font-size: 100px;
+    padding: 15px;
+    color: #7aaa49;
+}
+.price{
+    color: #7aaa49;
+}
+.nav-item{
+    margin-left: 30px;
+}
